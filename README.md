@@ -58,6 +58,7 @@ I'm a PhD researcher in the [Nanosystems Lab](https://github.com/nanosystemslab)
 | [**pymov**](https://github.com/nanosystemslab/pymov) | U.S. Solid stainless steel motorized ball valves |
 | [**pygassed**](https://github.com/nanosystemslab/pygassed) | Alicat flow & pressure meters |
 | [**pykeithley_dmm6500**](https://github.com/nanosystemslab/pykeithley_dmm6500) | Keithley DMM6500 digital multimeter |
+| [**OpenPauw**](https://github.com/nanosystemslab/OpenPauw) | Open Source Van der Pauw resistivity measurement (C++) |
 
 ### 📊 Experimental Data Analysis
 
@@ -73,7 +74,7 @@ I'm a PhD researcher in the [Nanosystems Lab](https://github.com/nanosystemslab)
 | [**Piezo_Load_Voltage_Processing**](https://github.com/nanosystemslab/Piezo_Load_Voltage_Processing) | Combined Shimadzu load + DMM voltage plotting |
 | [**Jubilee_Structural_Vibration_Processing**](https://github.com/nanosystemslab/Jubilee_Structural_Vibration_Processing) | Structural vibration data processing |
 | [**qcm_project_data_processing**](https://github.com/nanosystemslab/qcm_project_data_processing) | Quartz Crystal Microbalance experiment analysis |
-| [**OpenPauw**](https://github.com/nanosystemslab/OpenPauw) | Van der Pauw resistivity measurement (C++) |
+
 
 ### 🛠️ Tooling & Templates
 
