@@ -49,16 +49,17 @@ I'm a PhD researcher in the [Nanosystems Lab](https://github.com/nanosystemslab)
 |---------|-------------|
 | [**PyGapeVision**](https://github.com/nanosystemslab/PyGapeVision) | Automated computer-vision system for tracking hook deformation in mechanical tests |
 
-### 🤖 Laboratory Instrument Control
+### 🤖 Laboratory Instrumentation & Controls
 
 | Project | Instrument |
 |---------|------------|
+| [**OpenPauw**](https://github.com/nanosystemslab/OpenPauw) | Open Source Van der Pauw resistivity measurement (C++) |
 | [**pyinfuse**](https://github.com/nanosystemslab/pyinfuse) | Harvard Apparatus Pump 11 Elite programmable syringe pumps |
 | [**pyhotty**](https://github.com/nanosystemslab/pyhotty) | Omega PID temperature controllers |
 | [**pymov**](https://github.com/nanosystemslab/pymov) | U.S. Solid stainless steel motorized ball valves |
 | [**pygassed**](https://github.com/nanosystemslab/pygassed) | Alicat flow & pressure meters |
 | [**pykeithley_dmm6500**](https://github.com/nanosystemslab/pykeithley_dmm6500) | Keithley DMM6500 digital multimeter |
-| [**OpenPauw**](https://github.com/nanosystemslab/OpenPauw) | Open Source Van der Pauw resistivity measurement (C++) |
+
 
 ### 📊 Experimental Data Analysis
 
