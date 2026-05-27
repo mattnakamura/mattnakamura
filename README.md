@@ -84,18 +84,6 @@ I'm a PhD researcher in the [Nanosystems Lab](https://github.com/nanosystemslab)
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattnakamura&show_icons=true&include_all_commits=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattnakamura&layout=compact&theme=default)
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 - 🏛️ **Nanosystems Lab** — [@nanosystemslab](https://github.com/nanosystemslab)
